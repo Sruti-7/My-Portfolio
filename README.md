@@ -1,4 +1,4 @@
 # My-Portfolio
 This is my first gt repository
 <br>
-name-
+name - Sruti Jena
