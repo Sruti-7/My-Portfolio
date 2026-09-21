@@ -1,4 +1,4 @@
 # My-Portfolio
-This is my first gt repository
+This is my first git repository
 <br>
 name - Sruti Jena(Author)
